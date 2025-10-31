@@ -12,7 +12,9 @@
 
 </div>
 
----
+<table>
+  <tr>
+    <td>
 
 ### 👋 Hello, I'm Md Tanvir Hossen
 
@@ -21,11 +23,13 @@
 - 🌱 Exploring DevOps, Python, GoLang and ML
 - ✈️ When not coding, found traveling or reading up on tech trends
 
-<p align="right">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Hey there!" />
-</p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Hey there!"/>
+    </td>
+  </tr>
+</table>
 
----
 
 ### 🚀 Tech Stack & Tools
 
