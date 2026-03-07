@@ -33,7 +33,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanvirHossen112&show_icons=true&theme=radical" alt="Tanvir's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirHossen112&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanvirHossen112&theme=radical" alt="Profile Details" />
 </div>
 </details>
 
