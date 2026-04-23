@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1976d2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir112/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1976d2?logo=facebook&logoColor=white)](https://www.facebook.com/r3dr0k37)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:tanvirhossen112@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Resume](https://img.shields.io/badge/-Resume-14171A?style=flat-square&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/17CofSLaS42MwkgFXpEUKXGxJcqUtncEs/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/-Resume-14171A?style=flat-square&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1pqTBseAurXBfjEp9KOT5GVdCeIceDW1j/view?usp=sharing)
 
 </div>
 
