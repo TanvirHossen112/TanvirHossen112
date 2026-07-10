@@ -40,7 +40,7 @@
 
 - 🖥 Building robust web apps with Laravel, React, Node, and more
 - 🤝 Open to collaboration—just say hi!
-- 📝 [Resume](https://drive.google.com/file/d/17CofSLaS42MwkgFXpEUKXGxJcqUtncEs/view?usp=drive_link)
+- 📝 [Resume](https://drive.google.com/file/d/1bL5Uh7ohoNXFP7Wpd6P-HLH0_kofcAp-/view?usp=sharing)
 - 💡 [Portfolio](https://TanvirHossen112.github.io)
 
 ---
