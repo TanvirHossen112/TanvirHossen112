@@ -1,14 +1,9 @@
-<!-- Profile Banner -->
-<p align="center">
-  <!-- <img src="https://gprm.itsvg.in/api/banner?name=Shakil%20Ahmmed&desc=Full%20Stack%20Developer%20from%20Bangladesh%20%F0%9F%8C%B1&desc2=Building%20cool%20things%20with%20PHP%2C%20JS%2C%20Python%20%26%20More!&github=ShakilAhmmed" alt="Shakil Ahmmed Banner" width="100%" /> -->
-</p>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1976d2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir112/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1976d2?logo=facebook&logoColor=white)](https://www.facebook.com/r3dr0k37)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:tanvirhossen112@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Resume](https://img.shields.io/badge/-Resume-14171A?style=flat-square&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1pqTBseAurXBfjEp9KOT5GVdCeIceDW1j/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-14171A?style=flat-square&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1c0EKadGRfL-14JUlgwxLfw3N5umJ_wVv/view?usp=drive_link)
 
 </div>
 
@@ -40,7 +35,7 @@
 
 - 🖥 Building robust web apps with Laravel, React, Node, and more
 - 🤝 Open to collaboration—just say hi!
-- 📝 [Resume](https://drive.google.com/file/d/1bL5Uh7ohoNXFP7Wpd6P-HLH0_kofcAp-/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1c0EKadGRfL-14JUlgwxLfw3N5umJ_wVv/view?usp=drive_link)
 - 💡 [Portfolio](https://TanvirHossen112.github.io)
 
 ---
